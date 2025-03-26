@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA tutorial/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/DSA tutorial/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA tutorial/Basic Java Programs/Basic Java Programs.iml" filepath="$PROJECT_DIR$/DSA tutorial/Basic Java Programs/Basic Java Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA tutorial/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/DSA tutorial/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA Tutorial.iml" filepath="$PROJECT_DIR$/.idea/DSA Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA tutorial/DSA tutorial.iml" filepath="$PROJECT_DIR$/DSA tutorial/DSA tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA tutorial/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/DSA tutorial/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA tutorial/MethodorFunctions/MethodorFunctions.iml" filepath="$PROJECT_DIR$/DSA tutorial/MethodorFunctions/MethodorFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA tutorial/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/DSA tutorial/Sorting/Sorting.iml" />
+    </modules>
+  </component>
+</project>
